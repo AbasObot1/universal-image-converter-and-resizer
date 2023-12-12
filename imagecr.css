@@ -26,3 +26,11 @@
 .formcr input[type="submit"] {
     margin-top: 10px;
 }
+/*Show Image CSS*/
+#showImg{
+ display:block;
+ margin: 0 auto;
+ max-width: 300px;
+ min-height: 150px;
+ border-radius: 5px;
+}
